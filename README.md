@@ -8,4 +8,6 @@ Estagiando na Rerum Engenharia.
 ![](https://github-readme-stats.vercel.app/api?username=Pablo10544&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pablo10544&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo10544&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🤝 Sociais
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/pablopinheirocastro)
 
